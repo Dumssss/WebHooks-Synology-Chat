@@ -1,6 +1,6 @@
 <?php
 // Synology Chat API Settings
-$url = "YOUR_WEBHOOKS_TOKEN";
+$url = "YOUR_WEBHOOKS_TOKEN"; // Follow tuto in readme
 
 // Data of the message to send
 $message = array(
